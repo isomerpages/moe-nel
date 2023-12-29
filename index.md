@@ -31,4 +31,28 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - resources:
+      title: NEL Framework and Educators' Guides
+      subtitle: "Quality teaching and learning "
+      id: resources
+      button: Download
+  - textcards:
+      title: Activity Ideas
+      subtitle: iTeach Principles in practice
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Seeds of Perseverance
+          description: A planting experience to promote perseverance
+          linktext: Learn more
+          url: ""
+        - title: Quality Interactions through Current Issues
+          description: Promote shared sustained conversations through questioning techniques
+          linktext: Learn more
+          url: ""
+        - title: An Inquiry on Caterpillars and Butterflies
+          description: Use an integrated approach to help children make meaningful
+            connections
+          linktext: Learn more
+          url: ""
 ---
