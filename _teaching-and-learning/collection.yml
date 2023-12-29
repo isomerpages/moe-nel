@@ -2,6 +2,6 @@ collections:
   teaching-and-learning:
     output: true
     order:
-      - Integrated approach/.keep
-      - iTeach Principles.md
       - Beliefs.md
+      - iTeach Principles.md
+      - Integrated approach/.keep
