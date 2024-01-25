@@ -1,0 +1,8 @@
+collections:
+  teaching-and-learning:
+    output: true
+    order:
+      - Beliefs.md
+      - ITeach principles/.keep
+      - ITeach principles/iTeach Principles.md
+      - ITeach principles/Integrated approach to teaching and learning.md
