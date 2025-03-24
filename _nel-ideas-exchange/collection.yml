@@ -1,4 +1,5 @@
 collections:
   nel-ideas-exchange:
     output: true
-    order: []
+    order:
+      - example-page.md
