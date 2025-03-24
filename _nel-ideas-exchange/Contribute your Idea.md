@@ -58,4 +58,3 @@ short write-up, using the templates here for reference:&nbsp;</p>
 </li>
 </ul>
 <p>We look forward to hearing from you!</p>
-<p>use the NEL resources and share good practices.</p>
