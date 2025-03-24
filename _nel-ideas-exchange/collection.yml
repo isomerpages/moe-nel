@@ -2,4 +2,4 @@ collections:
   nel-ideas-exchange:
     output: true
     order:
-      - example-page.md
+      - Contribute your Idea.md
