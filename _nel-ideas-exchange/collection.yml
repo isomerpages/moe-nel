@@ -1,0 +1,5 @@
+collections:
+  nel-ideas-exchange:
+    output: true
+    order:
+      - Contribute your Idea.md
